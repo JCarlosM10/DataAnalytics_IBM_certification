@@ -239,3 +239,51 @@ Cada tipo de gráfico representa un tipo diferente de comparación entre los dat
 + **Gráficos de columnas**: Los gráficos de columnas pueden mostrar una proporción relativa entre elementos y datos con el tiempo, así como la frecuencia. Los gráficos de columnas muestran la información verticalmente. También son útiles para mostrar datos negativos.
 + **Gráficos de lineas**: Los gráficos de líneas pueden mostrar datos a lo largo del tiempo y la frecuencia; sin embargo, normalmente muestran estos datos en un continuo. Los gráficos de líneas pueden hacer un seguimiento de los cambios durante períodos de tiempo cortos y largos. Por ello, los gráficos de líneas son útiles para indicar pequeños cambios. Son eficaces para mostrar tendencias.
 + **Gráficos de dispersión**: Los gráficos de dispersión muestran puntos graficados para mostrar la relación entre dos conjuntos de datos. Muestran una gran cantidad de datos y resaltan los valores atípicos. Los gráficos de dispersión también te pueden ayudar a identificar patrones.
+
+### Seleccionar el mejor gráfico
+
+Un punto importante a recordar es que un tipo de visualización puede mostrar los datos de una mejor manera en comparación con otro tipo de visualización. El objetivo es tener una visualización que se eficaz, atractiva e impactante. Para ver esto en acción, revisa el siguiente escenario que sigue un recorrido de visualización de datos.
+
+![representaciones diferentes](representaciones.png)
+
+Si bien cada gráfico de líneas presenta la tendencia del precio a lo largo del tiempo para "Stock J", la escala vertical (o eje y) para el precio es diferente. Las escalas muestran los datos en dos incrementos diferentes. Ten en cuenta que el segundo gráfico es engañoso porque no muestra el precio de $0 a $25 como lo hace el primer gráfico. Y muestra el precio en incrementos de $5. ¡Hace que parezca que el precio del "Stock J" aumentó más rápido! El primer gráfico es una representación más precisa porque no salta el precio de $0 a $25 y muestra el precio consistentemente en incrementos de $10.
+
+El punto clave aquí es ser preciso en cómo eliges representar los datos.
+
+### Explorar más
+
+[From data to vis](https://www.data-to-viz.com/)
+
+[How to choose the correct data Visualization](https://chartio.com/learn/charts/how-to-choose-data-visualization/)
+
+[Vis of the day](https://public.tableau.com/app/discover/viz-of-the-day)
+
+## Resumen
+
+1. Es importante que las empresas de todas las industrias hallen conocimiento para mejorar potencialmente las operaciones, comprender mejor a los clientes o usuarios finales, aumentar las ganancias y mucho más.
+
+2. El análisis de datos es el proceso de recopilar, limpiar y transformar datos para obtener información que ayude a tomar decisiones mejores e informadas.
+
+3. Los datos estructurados se pueden organizar en bases de datos con muchas columnas y filas. Los datos no estructurados carecen de organización y pueden ser datos como tweets, comentarios de clientes, registros médicos, etc.
+
+4. Los datos cuantitativos se pueden contar y son numéricos. Los datos cualitativos no se pueden contar y no son numéricos. Cuando pienses en datos cualitativos, piensa en "calidad": algo que pueda categorizar sobre los datos.
+
+5. Big data se caracteriza por las 5 V: Volumen, Variedad, Velocidad, Veracidad y Valor.
+
+6. Hay cuatro tipos de análisis de datos que responden a preguntas clave, se complementan entre sí y aumentan en complejidad:
+
+    + Descriptivo
+    + Diagnóstico
+    + Predictivo
+    + Prescriptivo
+
+7. Si bien no existe un proceso de análisis de datos único y definido, estos son los pasos típicos a seguir:
+
+    + Recopilar
+    + Limpiar
+    + Analizar
+    + Visualizar
+
+8. Una visualización de datos, como un gráfico, un mapa o un cuadro, te ayuda a explorar e interpretar los datos durante el análisis para identificar patrones o tendencias, comunicar resultados y ayudar a las personas a comprender los conocimientos para tomar decisiones.
+
+9. Un tipo de visualización puede mostrar los datos de una manera mejor que otro tipo de visualización. El objetivo es tener una visualización que sea eficaz, atractiva e impactante.
