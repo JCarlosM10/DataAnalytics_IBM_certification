@@ -322,4 +322,3 @@ Los analistas de datos, científicos e ingenieros de datos calificados son figur
 9. Se están llevando a cabo proyectos de ciencia de datos en el mundo real, en las plataformas de redes sociales y sectores como el de los cuidados de la salud, el transporte, los deportes, el comercio electrónico, etc.
 
 10. ¡La ciencia de datos es una labor en equipo! Los analistas de datos, los científicos de datos y los ingenieros de datos colaboran para resolver problemas empresariales.
-
